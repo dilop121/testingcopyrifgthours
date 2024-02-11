@@ -14,10 +14,10 @@ from pyrogram.enums import ChatMemberStatus, ChatType
 from apscheduler.schedulers.background import BackgroundScheduler
 
 
-API_ID = 6 
-API_HASH = "Abcdefg1234"
+API_ID = "21971830"
+API_HASH = "21971830"
 BOT_TOKEN = ""
-DEVS = [1517994352, 1854700253]
+DEVS = [5465943450, 6352061770]
 
 ALL_GROUPS = []
 TOTAL_USERS = []
@@ -49,7 +49,7 @@ START_MESSAGE = """
  **Process?:** Simply add me in your group and promote as admin with delete messages right!
 """
 
-BUTTON = [[InlineKeyboardButton("+ Add me in group +", url="http://t.me/AntiCopyRightRobot?startgroup=s&admin=delete_messages")]]
+BUTTON = [[InlineKeyboardButton("+ Add me in group +", url="http://t.me/Alone_Dil_bot?startgroup=s&admin=delete_messages")]]
 
 RiZoeL = Client('RiZoeL-Anti-CopyRight', api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
