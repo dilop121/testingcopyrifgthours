@@ -16,7 +16,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 
 API_ID = "21971830"
 API_HASH = "21971830"
-BOT_TOKEN = ""
+BOT_TOKEN = "6700486472:AAGlJBTegyEoDiLarh8LiDghixNN0myNtCM"
 DEVS = [5465943450, 6352061770]
 
 ALL_GROUPS = []
